@@ -17,4 +17,4 @@ spring:
       enabled: true #With this database can be access from browser       
     
     
-msg:   This message if from production property file 
+msg:   This message if from discount property file 

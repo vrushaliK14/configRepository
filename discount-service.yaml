@@ -13,4 +13,4 @@ spring:  datasource:    url: jdbc:h2:mem:productdb
   h2:    console:      enabled: true #With this database can be access from browser            
    
     
-msg: This message is from default property file 
+msg: This message is from default discount property file 
