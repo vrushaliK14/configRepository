@@ -93,7 +93,7 @@ REPOSITORY          TAG                 IMAGE ID            CREATED             
 rabbitmq            3-management        cc20c50012e2        35 hours ago        186MB
 openzipkin/zipkin   latest              1850194f377c        4 weeks ago         160MB
 
-C:\Users\w2cluster501\Documents\workspace\myfirstdemo>docker built -t vrushalikaware14/firstdemo-dockerV1:latest
+C:\Users\w2cluster501\Documents\workspace\myfirstdemo>docker built -t vrushalikaware14/firstdemo-dockerV1:latest .
 unknown docker COMMAND: 't' in -t
 See 'docker --help'.
 A self-sufficient runtime for containers
